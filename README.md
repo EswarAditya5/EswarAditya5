@@ -62,14 +62,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" width="40" /> 
     </a> 
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" width="40"/>
     </a>
     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" width="40" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferre">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" width="40" />
-  <img width="12" />
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" width="40" />
