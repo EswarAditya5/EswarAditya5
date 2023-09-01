@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- 👋 Hi, I’m Eswar Aditya-->
 - 🌱 I’m currently learning **Machine Learning**
-
+- 👀 I’m interested in ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/eswar-aditya-912263211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eswar-aditya-912263211" height="30" width="40" /></a>
