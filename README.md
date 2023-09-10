@@ -9,9 +9,11 @@
 EswarAditya5/EswarAditya5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!--
 <div align="center">
   <img height="300" width="3500" src="https://media.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/0/1583217311227?e=2147483647&v=beta&t=s_7cvkGjyfNTp2x6mnsiPFUfbPhWyvnMIavE_na62bE"  />
 </div>
+-->
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>-->
 <h1 align="center">Hi 👋, I'm Eswar Aditya</h1>
 <h3 align="center">A passionate Data scientist from India </h3>
