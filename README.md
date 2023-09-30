@@ -21,8 +21,9 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <!-- 👋 Hi, I’m Eswar Aditya-->
-- 🌱 I’m currently learning **Machine Learning**
-- 👀 I’m interested in ...
+- 🌱 I’m currently learning **Machine Learning, Time Series, Deployment on Cloud**
+- 💬   Ask me about ML, DL, Excel, SQL, Power Bi, Python, Tableau.
+- 👨‍💻   All of my projects are available on [Github](https://github.com/EswarAditya5)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/eswar-aditya-912263211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eswar-aditya-912263211" height="30" width="40" /></a>
