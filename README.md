@@ -1,20 +1,3 @@
-<!--
-- 👋 Hi, I’m @EswarAditya5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
-<!---
-EswarAditya5/EswarAditya5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--
-<div align="center">
-  <img height="300" width="3500" src="https://media.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/0/1583217311227?e=2147483647&v=beta&t=s_7cvkGjyfNTp2x6mnsiPFUfbPhWyvnMIavE_na62bE"  />
-</div>
--->
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>-->
 <h1 align="center">Hi 👋, I'm Eswar Aditya</h1>
 <h3 align="center">A passionate Data scientist from India </h3>
 
@@ -91,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!--
+
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -100,8 +83,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EswarAditya5.EswarAditya5&"  />
 </div>
--->
-<!--
+
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
