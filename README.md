@@ -19,20 +19,6 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 [![GitHub Streak](https://streak-stats.demolab.com?user=EswarAditya5&theme=default)](https://git.io/streak-stats)<br/>
 
 ## 💻 Tech Stack:
-
-<table>
-  <tr>
-    <td align="center"><b>Database</b></td>
-    <td align="center"><b>Visualization</b></td>
-    <td align="center"><b>Programming</b>
-    <td align="center"><b>ML</b></td>
-    <td align="center"><b>DL</b></td>
-    <td align="center"><b>MLOps</b></td>
-    <td align="center"><b>Others</b></td>
-  </tr>
-  <tr>
-	  
-<h3 align="left">Languages and Tools:</h3>
 <div align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" width="40"  />
@@ -86,6 +72,7 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" /> 
   </a> 
 </div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
