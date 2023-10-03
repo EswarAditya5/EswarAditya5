@@ -13,7 +13,7 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 - 💬 &nbsp; Ask me about ML, DL, Excel,SQL, Power Bi, Python, Tableau
 - 📫 &nbsp; How to reach me eswaraditya63@gmail.com<br><br>
 
-[![](https://visitcount.itsvg.in/api?id=EswarAditya5&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=EswarAditya5&label=PROFILE+VIEWS)
 
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=EswarAditya5&theme=default)](https://git.io/streak-stats)<br/>
@@ -72,10 +72,6 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" /> 
   </a> 
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 #
 <div align="center">
