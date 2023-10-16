@@ -8,7 +8,7 @@
 I am a recent graduate of B.Tech(Mechanical) with a strong interest in data science. Proficient in SQL for comprehensive data handling. <br> Skilled in dynamic visualizations via Tableau, Power BI, and Excel. Expertise in preprocessing, and managing diverse data. <br> Strong Python skills for advanced analysis. Detail-oriented, committed to precision. Demonstrated trend-spotting through impactful projects. Eager to learn, contribute, and leverage data science tools for insights. 
 
 ## Technological Aspects:
-- 🛠 &nbsp; I’m currently learning Time Series, Tableau, Power BI.
+- 🛠 &nbsp; I’m currently learning Tableau, Power BI.
 - 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/EswarAditya5)
 - 💬 &nbsp; Ask me about ML, DL, Excel, SQL, Power BI, Python, Tableau
 - 📫 &nbsp; How to reach me eswaraditya63@gmail.com<br><br>
