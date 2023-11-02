@@ -82,15 +82,9 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 
 
 <!--
-<h1 align="center">Hi 👋, I'm Eswar Aditya</h1>
-<h3 align="center">A passionate Data scientist from India </h3>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 -->
 <!--
-👋 Hi, I’m Eswar Aditya
-- 🌱 I’m currently learning **Machine Learning, Time Series, Deployment on Cloud**
-- 💬 Ask me about ML, DL, Excel, SQL, Power Bi, Python, Tableau.
 - 👨‍💻 All of my projects are available on [Github](https://github.com/EswarAditya5)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
