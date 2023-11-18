@@ -11,7 +11,7 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 - 🛠 &nbsp; I’m currently learning Time Series, Tableau, and Power BI.
 - 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/EswarAditya5)
 - 💬 &nbsp; Ask me about ML, DL, Excel, SQL, Power BI, Python, Tableau
-- 📫 &nbsp; How to reach me eswaraditya63@gmail.com<br><br>
+- 📫 &nbsp; How to reach me eadityar@gmail.com<br><br>
 
 ![](https://komarev.com/ghpvc/?username=EswarAditya5&label=PROFILE+VIEWS)
 
