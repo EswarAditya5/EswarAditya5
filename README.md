@@ -15,6 +15,7 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 ![](https://komarev.com/ghpvc/?username=EswarAditya5&label=PROFILE+VIEWS)
 
 ## 📊 GitHub Stats:
+<!--[Eswar's github stats](https://github-readme-stats.vercel.app/api?username=EswarAditya5)-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=EswarAditya5&theme=default)](https://git.io/streak-stats)<br/>
 
 ## 💻 Tech Stack:
