@@ -1,11 +1,16 @@
 # Hey 👋, I'm Eswar Aditya!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-aditya-912263211)
-<!--[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fiq423ubf)
--->
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/eswaradityarayapudi)
 ## Welcome, it's great to have you here! 👽
 
 I am a recent graduate of B.Tech(Mechanical) with a strong interest in data science. Proficient in SQL for comprehensive data handling. <br> Skilled in dynamic visualizations via Tableau, Power BI, and Excel. Expertise in preprocessing, and managing diverse data. <br> Strong Python skills for advanced analysis. Detail-oriented, committed to precision. Demonstrated trend-spotting through impactful projects. Eager to learn, contribute, and leverage data science tools for insights. 
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=EswarAditya5" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ## Technological Aspects:
 - 🛠 &nbsp; I’m currently learning Tableau, and Power BI. 
