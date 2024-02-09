@@ -1,4 +1,4 @@
-# Hey 👋, I'm Eswar Aditya!
+# Hey 👋, I'm Eswar Aditya! Aspiring Data Scientist
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-aditya-912263211)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/eswaradityarayapudi)
