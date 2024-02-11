@@ -28,7 +28,7 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 
 ## 💻 Tech Stack:
 <div align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.w3schools.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" width="40"  />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
