@@ -20,7 +20,8 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 - 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/EswarAditya5/DataScience_Projects)
 - 💬 &nbsp; Ask me about ML, DL, Excel, SQL, Power BI, Python, Tableau
 - 📫 &nbsp; How to reach me eadityar@gmail.com
-- Intrested in LLM<br>
+- 🧢 &bnsp; Intrested in LLM<br>
+
 ![](https://komarev.com/ghpvc/?username=EswarAditya5&label=PROFILE+VIEWS)
 
 ## 📊 GitHub Stats:
