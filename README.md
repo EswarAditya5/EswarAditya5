@@ -1,12 +1,13 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align='center'>Hi 👋, I'm Eswar Aditya!</h1>
 <h3 align='center'>Aspiring Data Scientist</h3>
 
 ### Social Profiles
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-aditya-912263211)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/eswaradityarayapudi)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eadityar@gmail.com)
+![](https://komarev.com/ghpvc/?username=EswarAditya5&label=PROFILE+VIEWS)
 ## Welcome, it's great to have you here! 👽
-
 I am a recent graduate of B.Tech(Mechanical) with a strong interest in data science. Proficient in SQL for comprehensive data handling. <br> Skilled in dynamic visualizations via Tableau, Power BI, and Excel. Expertise in preprocessing, and managing diverse data. <br> Strong Python skills for advanced analysis. Detail-oriented, committed to precision. Demonstrated trend-spotting through impactful projects. Eager to learn, contribute, and leverage data science tools for insights. 
 
 <p align="center">
@@ -21,8 +22,6 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 - 💬 &nbsp; Ask me about ML, DL, Excel, SQL, Power BI, Python, Tableau
 - 📫 &nbsp; How to reach me eadityar@gmail.com
 - 🧢 &nbsp; Intrested in AI and LLM<br>
-
-![](https://komarev.com/ghpvc/?username=EswarAditya5&label=PROFILE+VIEWS)
 
 ## 📊 GitHub Stats:
 <!--[Eswar's github stats](https://github-readme-stats.vercel.app/api?username=EswarAditya5)-->
@@ -89,3 +88,5 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
