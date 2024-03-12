@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align='center'>Hi 👋, I'm Eswar Aditya!</h1>
-<h3 align='center'>Aspiring Data Scientist</h3>
+
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated gif"> I'm Eswar Aditya!</h1>
+<h2 align='center'>Aspiring Data Scientist</h2>
 
 ### Social Profiles
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-aditya-912263211)
@@ -21,10 +22,9 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 - 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/EswarAditya5/DataScience_Projects)
 - 💬 &nbsp; Ask me about ML, DL, Excel, SQL, Power BI, Python, Tableau
 - 📫 &nbsp; How to reach me eadityar@gmail.com
-- 🧢 &nbsp; Intrested in AI and LLM<br>
+- 🌱 &nbsp; Intrested in AI and LLM<br>
 
 ## 📊 GitHub Stats:
-<!--[Eswar's github stats](https://github-readme-stats.vercel.app/api?username=EswarAditya5)-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=EswarAditya5&theme=default)](https://git.io/streak-stats)<br/>
 
 ## 💻 Tech Stack:
@@ -80,6 +80,9 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" /> 
   </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> 
+  </a>
 </div>
 
 #
