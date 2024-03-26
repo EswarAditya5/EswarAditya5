@@ -2,9 +2,12 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated gif"> I'm Eswar Aditya!</h1>
 <h2 align='center'>Aspiring Data Scientist</h2>
 
-### Social Profiles
+### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-aditya-912263211)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/eswaradityarayapudi)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/eswaraditya63)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eswaraditya63)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/eswaraditya63?hr_r=1)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eadityar@gmail.com)
 ![](https://komarev.com/ghpvc/?username=EswarAditya5&label=PROFILE+VIEWS)
 ## Welcome, it's great to have you here! 👽
@@ -24,6 +27,8 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 - 🌱 &nbsp; Intrested in AI and LLM<br>
 
 ## 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eswaraditya5&show_icons=true&locale=en&layout=compact" alt="eswar" /></p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=EswarAditya5&theme=default)](https://git.io/streak-stats)<br/>
 
 ## 💻 Tech Stack:
