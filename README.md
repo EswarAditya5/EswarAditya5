@@ -93,7 +93,6 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
