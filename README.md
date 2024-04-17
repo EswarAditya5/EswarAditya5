@@ -3,11 +3,11 @@
 <h2 align='center'>Aspiring Data Scientist</h2>
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-aditya-912263211)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/eswaradityarayapudi)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/EswarAdity48821)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eswaraditya63)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/eswaraditya63?hr_r=1)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-aditya-912263211)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/eswaradityarayapudi)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/EswarAdity48821)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@eswaraditya63)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/eswaraditya63?hr_r=1)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eadityar@gmail.com)
 ![](https://komarev.com/ghpvc/?username=EswarAditya5&label=PROFILE+VIEWS)
 ## Welcome, it's great to have you here! 👽
