@@ -91,6 +91,7 @@ I am a recent graduate of B.Tech(Mechanical) with a strong interest in data scie
 
 #
 <div align="center">
+  
 ### Show some ❤️ by starring some of the repositories!
 </div>
 
