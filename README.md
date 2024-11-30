@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated gif"> I'm Eswar Aditya!</h1>
 <h2 align='center'>Data Services at LatentView Analytics</h2>
 <div align='center'>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Machine+Learning+Enthusiast;I'm+a+Data+Analyst;I'm+a++Freelancer;I'm+a+Developer"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Data+Analyst;I'm+a+Machine+Learning+Enthusiast;"/>
 </div>
 
 ### Connect with me:
